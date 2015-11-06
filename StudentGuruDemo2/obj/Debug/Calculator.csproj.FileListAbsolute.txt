@@ -1,0 +1,2 @@
+C:\Users\g0f\Desktop\Calculator\StudentGuruDemo2\obj\Debug\StudentGuruDemo2.exe
+C:\Users\g0f\Desktop\Calculator\StudentGuruDemo2\obj\Debug\StudentGuruDemo2.pdb
